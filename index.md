@@ -30,7 +30,7 @@ sections:
   - type: services.html
     section_id: structure
     title: BHKi Structure
-    background_style: bg-primary
+    background_style: bg-dark text-primary
     structure:
       - title: BHKi Structure
         image: assets/img/structure.png
