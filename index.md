@@ -27,15 +27,15 @@ sections:
       - title: Get Started!
         url: '#'
         class: btn-light
-
   - type: services.html
     section_id: structure
     title: BHKi Structure
-    background_style: bg-info
-    members:
+    background_style: bg-primary
+    structure:
       - title: BHKi Structure
         image: assets/img/structure.png
         url: '#structure'
+        
 
 
 ---
