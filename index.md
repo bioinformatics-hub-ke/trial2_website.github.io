@@ -35,7 +35,7 @@ sections:
     members:
       - title: BHKi Structure
         image: assets/img/structure.png
-        url: '#'
+        url: '#structure'
 
 
 ---
