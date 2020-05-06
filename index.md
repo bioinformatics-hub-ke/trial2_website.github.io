@@ -4,7 +4,7 @@ header:
   title: Where Bioinformaticians network and collaborate
   text: | 
     Our Mission:
-   
+    
     To bridge the gap between well established and aspiring bioinformaticians through peer training and mentorship so as to enhance collaborations to foster quality scientific research and innovations and promote the sharing of data, skills and codes.
     
     Our Vision:
