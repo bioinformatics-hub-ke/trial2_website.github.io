@@ -2,7 +2,7 @@
 layout: home
 header:
   title: Where Bioinformaticians network and collaborate
-  text: >
+  text: |
     Start connecting with other bioinformaticians in the region. Grow you network!! 
     
     Our Mission:
