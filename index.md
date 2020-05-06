@@ -12,13 +12,6 @@ header:
     Our Vision:
     
     To be a vivacious, well-coordinated and enthusiastic hub that will develop bioinformatics and skills set through creating awareness, collaborations and capacity development.
-    
-    Key activities: 
-    
-    * Training  
-    * Networking 
-    * Peer learning 
-    * Outreach events
   
   action: # action button is optional
     label: Find Out More
