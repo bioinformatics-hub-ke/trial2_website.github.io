@@ -3,13 +3,12 @@ layout: home
 header:
   title: Where Bioinformaticians network and collaborate
   text: | 
-  
     Our Mission:
-    
+   
     To bridge the gap between well established and aspiring bioinformaticians through peer training and mentorship so as to enhance collaborations to foster quality scientific research and innovations and promote the sharing of data, skills and codes.
     
     Our Vision:
-    
+   
     To be a vivacious, well-coordinated and enthusiastic hub that will develop bioinformatics and skills set through creating awareness, collaborations and capacity development.
   
   action: # action button is optional
