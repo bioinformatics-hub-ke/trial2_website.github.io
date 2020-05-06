@@ -20,7 +20,7 @@ baseurl: "/trial2_website.github.io/" # the subpath of your site, e.g. /blog
 url: "https://bioinformatics-hub-ke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
-
+author: BioinfoHub_KE
 # Build settings
 markdown: kramdown
 theme: minima
