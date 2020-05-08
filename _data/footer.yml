@@ -1,5 +1,5 @@
-copyright: '&copy; Start Bootstrap'
+#copyright: '&copy; Start Bootstrap'
 links:
-  - text: Creative
-    url: 'https://startbootstrap.com/themes/creative/'
+  - text: Follow us on twitter
+    url: 'https://twitter.com/bioinfohub_ke'
     new_window: true
