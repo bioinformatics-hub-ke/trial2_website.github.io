@@ -5,4 +5,4 @@ ruby rails_server_killer.rb
 
 bundle update
 
-bundle exec jekyll serve  
+bundle exec jekyll serve --livereload

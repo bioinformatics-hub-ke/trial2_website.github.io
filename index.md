@@ -3,11 +3,11 @@ layout: home
 header:
   title: Where Bioinformaticians network and collaborate
   text: | 
-    Our Mission:
+    **Our Mission:**
     
     To bridge the gap between well established and aspiring bioinformaticians through peer training and mentorship so as to enhance collaborations to foster quality scientific research and innovations and promote the sharing of data, skills and codes.
     
-    Our Vision:
+    **Our Vision:**
    
     To be a vivacious, well-coordinated and enthusiastic hub that will develop bioinformatics and skills set through creating awareness, collaborations and capacity development.
   
@@ -119,6 +119,21 @@ sections:
           - Focus on the main goals of the hub.
           - Contact the steering committee immediately to report any situation that causes you or other members any kinds of discomfort in our community.There is an option of reporting anonymously and the steering committee will keep all reports confidential to prevent retaliation.
 
+          **Unaccepted Behavior (Don’ts)**
+
+          - Verbal or written comments that exclude people on the basis of membership to this community or a specific group.
+          - Causing members discomfort or fear for their safety especially through stalking, intimidation, harassment or bullying.
+          - Using harsh or sexual language, racist or inappropriate jokes.
+          - Sexual or violent display of images or any media content in any community forums.
+
+          To avoid any situation that breaches our Code of Conduct, we advise our members to not post anything that doesn’t pertain to the hub on our online platform (Slack) or community forum without any approval from the community organisers.
+
+          Members who indulge in unacceptable behavior will be summoned personally by a member of the steering committee and will be asked to stop immediately. In case of an event (training, meet-up or workshop), members who breach our Code of Conduct will be immediately asked by the organisers to leave the event and can be banned from three consecutive events based on the severity of their actions. 
+
+          Our members’ welfare is extremely important to us. To ensure this, we invite our members to uphold our Code of Conduct and help us create a community that is safe and welcoming for everyone. 
+
+          _NB: In times of conflict of interest, the member should notify the steering committee so that they can act appropriately._
+
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
@@ -130,7 +145,7 @@ sections:
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: bioinformaticshubofkenya@gmail.com
+      url: mailto:bioinformaticshubofkenya@gmail.com
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
