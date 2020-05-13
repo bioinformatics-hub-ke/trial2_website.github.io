@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Where Bioinformaticians network and collaborate
+  title: Bioinformatics Hub of Kenya Intiative (BHKi)
   text: | 
     **Our Mission:**
     
@@ -33,15 +33,30 @@ sections:
         url: '#'
         class: btn-light
 
-  - type: services.html
+  - type: call-to-action.html
     section_id: structure
     title: BHKi Structure
     background_style: bg-dark text-primary
-    structure:
-      - title: BHKi Structure
-        image: assets/img
-        icon: structure.png
-        url: '#structure'
+    text_style: text_left
+    text: |
+
+            The hub is comprised of the Advisory commitee, Steering committee, Mentors and Members.The structure of the BHK is as shown below. The Steering Committee, made up of at least five members who are responsible for the functioning of the hub. The Steering Committee reports to the Advisory Committee which plays an oversight role for the hub.The Advisory Committee with an interest in mentorship will serve as Mentors as well as Guest Speakers when presenting topics and research work to the hub.The Hub will coordinate with the Steering committee in running present bioinformatics projects. The Hub will be made up of Master’s students in Bioinformatics and related fields and aspiring bioinformaticians.
+
+            
+            **Key Activities**
+              * Training 
+              * Networking 
+              * Peer learning 
+              * Outreach events 
+   
+   
+   
+   
+   # structure:
+     # - title: BHKi Structure
+      #  image: assets/img
+       # icon: structure.png
+        #url: '#structure'
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -63,7 +78,19 @@ sections:
         text: BHKi steering comittee and EANBiT support team
         icon: 3.jpg
         url: '#'
-
+      - title: Meeting
+        text: Launch meeting
+        icon: 5.jpg
+        url: '#'
+      - title: Mentors
+        text: Keynote speakers and Mentors
+        icon: keynote.jpg
+        url: '#'
+      - title: Steering comittee
+        text: Steering comittee members at the launch meeting
+        icon: steering.jpg
+        url: '#'
+      
 
   - type: call-to-action.html
     section_id: membership
@@ -148,7 +175,7 @@ sections:
       Give us a call or send us an email and we will get back to you as soon as possible!
     
     actions:
-    - title: Organizing Secretariat +245 722 *****
+    - title: Organizing Secretariat
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
